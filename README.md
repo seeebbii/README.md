@@ -3,7 +3,7 @@
 
 ### My name is Haseeb Zafar, and I'm ...
 
->🧡 A Full stack Software Developer
+>🧡 A Full stack Software Developer.
 💻 A Freelancer.  
 📚 Computer Science Student.  
 
@@ -32,10 +32,10 @@
 ![](https://img.shields.io/badge/Cloud-AWS-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=amazonaws)
 ![](https://img.shields.io/badge/Cloud-GCP-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=googlecloud)
 
-<!-- ## 📌 Featured Projects
+## 📌 Featured Projects
 
-<a href="https://github.com/xavierchanth/at_app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=at_app"/></a>
-<a href="https://github.com/xavierchanth/dess"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=dess"/></a>
-<a href="https://github.com/xavierchanth/atsign.dev"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=atsign.dev"/></a>
-<a href="https://github.com/xavierchanth/arch-setup"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=arch-setup"/></a>
- -->
+<a href="https://github.com/seeebbii/input-flutter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=at_app"/></a>
+<a href="https://github.com/seeebbii/custom_mvp_camera"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=dess"/></a>
+<a href="https://github.com/seeebbii/covid_tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=atsign.dev"/></a>
+<a href="https://github.com/seeebbii/Input-apis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=arch-setup"/></a>
+

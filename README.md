@@ -39,8 +39,7 @@
 <a href="https://github.com/seeebbii/custom_mvp_camera"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=custom_mvp_camera"/></a>
 <a href="https://github.com/seeebbii/covid_tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=covid_tracker"/></a>
 <a href="https://github.com/seeebbii/Input-apis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=Input-apis"/></a>
-
+<!-- 
 <hr>
-<img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
-
-
+<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+ -->

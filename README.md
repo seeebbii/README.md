@@ -32,7 +32,6 @@
 ![](https://img.shields.io/badge/Cloud-AWS-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=amazonaws)
 ![](https://img.shields.io/badge/Cloud-GCP-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=googlecloud)
 
-
 <!-- ## 📌 Featured Projects
 
 <a href="https://github.com/xavierchanth/at_app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierchanth&theme=tokyonight&hide_border=true&repo=at_app"/></a>

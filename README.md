@@ -1,12 +1,11 @@
 
 # 👋 Hi There!
 
-### My name is Xavier Chanthavong, and I'm ...
+### My name is Haseeb Zafar, and I'm ...
 
->🧡 A software developer at The @ Company.  
-💻 A freelance I/T consultant.  
-📚 Studying Computer Science at Ontario Tech University.  
-😎 President of the Computer Science Club at Ontario Tech University.  
+>🧡 A Full stack Software Developer
+💻 A Freelancer.  
+📚 Computer Science Student.  
 
 ## 📈 Github Stats
 

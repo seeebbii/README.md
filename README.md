@@ -4,9 +4,8 @@
 ### My name is Haseeb Zafar, and I'm ...
 
 >🧡 A Full Stack Software Developer.  
-💻 A freelance I/T consultant.  
-📚 Studying Computer Science at Ontario Tech University.  
-😎 President of the Computer Science Club at Ontario Tech University.  
+💻 A Freelancer.  
+📚 Student of Computer Science.
 
 ## 📈 Github Stats
 

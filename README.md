@@ -15,9 +15,6 @@
     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=seeebbii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile"/>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=seeebbii&show_icons=true&locale=en&theme=tokyonight&hide_border=true&line_height=29&hide=stars)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=seeebbii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile)
-
 ## 🛠 Tools and Tech
 
 ![](https://img.shields.io/badge/Editor-VSCode-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=visualstudiocode)

@@ -5,7 +5,7 @@
 
 >🧡 A Full Stack Software Developer.  
 💻 A Freelancer.  
-📚 Student of Computer Science.
+📚 Computer Science Student.
 
 ## 📈 Github Stats
 

@@ -9,13 +9,10 @@
 
 ## 📈 Github Stats
 
-<p>
-  <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=seeebbii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile"/>
-</p>
-
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=seeebbii&show_icons=true&locale=en&theme=tokyonight&hide_border=true&line_height=29&hide=stars" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=seeebbii&theme=tokyonight&hide_border=true&fire=C77800" />
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=seeebbii&show_icons=true&locale=en&theme=tokyonight&hide_border=true&line_height=29&hide=stars" />
+  <img width="300px" src="https://github-readme-streak-stats.herokuapp.com?user=seeebbii&theme=tokyonight&hide_border=true&fire=C77800" />
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=seeebbii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile"/>
 </p>
 
 ## 🛠 Tools and Tech

@@ -4,7 +4,7 @@
 ### My name is Haseeb Zafar, and I'm ...
 
 >🧡 A Full stack Software Developer.
-💻 A Freelancer.  
+>💻 A Freelancer.  
 📚 Computer Science Student.  
 
 ## 📈 Github Stats

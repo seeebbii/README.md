@@ -32,8 +32,8 @@
 
 ## 📌 Featured Projects
 
-<a href="https://github.com/seeebbii/input-flutter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=false&repo=input-flutter"/></a>
-<a href="https://github.com/seeebbii/custom_mvp_camera"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=false&repo=custom_mvp_camera"/></a>
-<a href="https://github.com/seeebbii/covid_tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=false&repo=covid_tracker"/></a>
-<a href="https://github.com/seeebbii/Input-apis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=false&repo=Input-apis"/></a>
+<a href="https://github.com/seeebbii/input-flutter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=input-flutter"/></a>
+<a href="https://github.com/seeebbii/custom_mvp_camera"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=custom_mvp_camera"/></a>
+<a href="https://github.com/seeebbii/covid_tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=covid_tracker"/></a>
+<a href="https://github.com/seeebbii/Input-apis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=Input-apis"/></a>
 
